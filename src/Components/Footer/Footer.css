@@ -1,0 +1,14 @@
+ul li a{
+    text-decoration: none;
+    color: gray;
+
+}
+
+ul li a:hover{
+    text-decoration: underline;
+}
+
+#footer-con{
+    max-width: 930px;
+}
+

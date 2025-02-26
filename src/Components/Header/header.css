@@ -1,0 +1,7 @@
+.navbar-nav li a{
+    color: black !important;
+}
+
+.box-shadow{
+    box-shadow: 2px 2px 6px lightgray;
+}
